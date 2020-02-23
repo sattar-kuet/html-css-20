@@ -1,0 +1,24 @@
+h1.text-style{
+    text-align: left;
+    text-align: right;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-transform: capitalize;
+    text-transform: lowercase;
+    letter-spacing: 8px;
+    word-spacing: 26px;
+    color: red;
+}
+
+p.justify-text{
+    text-align: justify;
+    font-family: sans-serif;
+    font-family: halvatica;
+    font-family: "Times New Roman";
+    font-family: sans-serif,halvatica,"Times New Roman";
+    font-size: 16px;
+    font-weight: 700;
+    font-style: italic;
+    line-height: 17px;
+}
